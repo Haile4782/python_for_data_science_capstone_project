@@ -86,7 +86,6 @@ capstone_project/
 ├── src/
 │   └── data_cleaning.py
 │
-├── requirements.txt
 └── README.md
 
 ## ⚙️ Technologies Used
